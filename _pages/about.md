@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Hello there!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,6 +13,6 @@ I am a PhD student at the [MIT Sloan School of Management](https://mitsloan.mit.
 
 Before MIT, I received my A.B. in Economics from Princeton University in 2024. I was also a predoctoral research assistant at [MIT FutureTech](https://futuretech.mit.edu/) and an analyst at [Cornerstone Research](https://www.cornerstone.com/). My full CV is available [here]({{ base_path }}/cv/).
 
-Feel free to reach out at wonjaech<at>mit<dot>edu. I am happy to chat and help with anything PhD admissions, predoc applications, econ consulting and more! 
+Feel free to reach out at wonjaech\<at\>mit\<dot\>edu. I am happy to chat and help with anything PhD admissions, predoc applications, econ consulting and more! 
 
 This site is under development! Check back later.

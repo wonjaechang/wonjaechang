@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Random Life Events"
+permalink: /life/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
 
-Coming soon!
+Coming soon
