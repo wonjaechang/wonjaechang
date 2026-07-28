@@ -1,37 +1,35 @@
-<style>
-  .news-table {
-    width: 100%;
-    border-collapse: collapse;
-    font-size: 0.85em;
-    margin-bottom: 2em;
-  }
-  .news-table td {
-    padding: 0.5em 0.6em;
-    border: none;
-    border-bottom: 1px solid rgba(128, 128, 128, 0.25);
-    vertical-align: top;
-    background: none;
-  }
-  .news-table tr:last-child td {
-    border-bottom: none;
-  }
-  .news-table .news-date {
-    white-space: nowrap;
-    color: rgba(128, 128, 128, 0.95);
-    width: 1%;
-  }
-  .news-table .news-content p {
-    margin: 0;
-  }
-</style>
-
-<h2>news</h2>
-<table class="news-table">
-  {% assign items = site.news | sort: 'date' | reverse %}
-  {% for item in items limit: 5 %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2685.6">
+  <style type="text/css">
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 10.2px Times; color: #6d6d6d; color: rgba(109, 109, 109, 0.95); -webkit-text-stroke: rgba(109, 109, 109, 0.95)}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 10.2px Times; -webkit-text-stroke: #000000}
+    span.s1 {font-kerning: none}
+    table.t1 {margin: 0.0px 0.0px 20.4px 0.0px; border-collapse: collapse}
+    td.td1 {width: 132.2px; padding: 5.1px 6.1px 5.1px 6.1px}
+    td.td2 {width: 627.4px; padding: 5.1px 6.1px 5.1px 6.1px}
+  </style>
+</head>
+<body>
+<h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>News</b></span></h2>
+<p class="p2"><span class="s1">{% assign items = site.news | sort: 'date' | reverse %} {% for item in items limit: 5 %} {% endfor %}</span></p>
+<table cellspacing="0" cellpadding="0" class="t1">
+  <tbody>
     <tr>
-      <td class="news-date">{{ item.date | date: "%b %Y" }}</td>
-      <td class="news-content">{{ item.content | markdownify }}</td>
+      <td valign="top" class="td1">
+        <p class="p3"><span class="s1">{{ item.date | date: "%b %Y" }}</span></p>
+      </td>
+      <td valign="top" class="td2">
+        <p class="p4"><span class="s1">{{ item.content | markdownify }}</span></p>
+      </td>
     </tr>
-  {% endfor %}
+  </tbody>
 </table>
+</body>
+</html>
