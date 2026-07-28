@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Experience"
+title: "Relevant Experience"
 permalink: /experience/
 author_profile: true
 ---
@@ -34,9 +34,9 @@ Undergraduate Theses
 * Senior Thesis, 2024
   * "Productive Selectivity: Addressing the Quality-Retention Trade-Off in Student Group Admissions"
 * PACM Independent Work, 2024
-  * "The Relationship between Conservation-Oriented Tourism and Economic Well Being: Ecotourism in Costa Rica" 
-* Junior Paper, 2023
   * "Efficient algorithms for Ewald sphere correction in Cryo-EM"
+* Junior Paper, 2023
+  * "The Relationship between Conservation-Oriented Tourism and Economic Well Being: Ecotourism in Costa Rica"
 
 Skills
 ======

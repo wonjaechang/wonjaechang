@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-I am a PhD student at the [MIT Sloan School of Management](https://mitsloan.mit.edu/) in the [TIES](https://mitsloan.mit.edu/programs/phd/program-overview/ties) group. My research interests lie broadly in the economics of innovation, labor economics, and industrial organization.
+I am an incoming PhD student at [MIT Sloan](https://mitsloan.mit.edu/) in the [TIES](https://mitsloan.mit.edu/programs/phd/program-overview/ties) group. My research interests lie broadly in the economics of innovation, labor economics, and industrial organization.
 
-Before MIT, I graduated *cum laude*from [Princeton University](https://economics.princeton.edu/) with an AB in Economics and a minor in Applied Math. I was also a predoc at [MIT FutureTech](https://futuretech.mit.edu/) and an analyst at [Cornerstone Research](https://www.cornerstone.com/). 
+Before MIT, I graduated **cum laude** from [Princeton University](https://economics.princeton.edu/) with an AB in Economics and a minor in Applied Math. I was also a predoc at [MIT FutureTech](https://futuretech.mit.edu/) and an analyst at [Cornerstone Research](https://www.cornerstone.com/). 
 
 Feel free to reach out at **wonjaech\<at\>mit\<dot\>edu**. I am happy to help with anything PhD, predoc, econ consulting and [more]({{ base_path }}/life/)! 
 
