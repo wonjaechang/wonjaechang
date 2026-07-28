@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Relevant Experience"
 permalink: /experience/
 author_profile: true
 ---
