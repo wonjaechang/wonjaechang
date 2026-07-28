@@ -4,7 +4,7 @@ site_theme               : "default"
 title                    : "Won-Jae Chang"
 title_separator          : "-"
 name                     : &name "Won-Jae Chang"
-description              : &description "Incoming PhD @ MIT Sloan, Princeton Economics '24"
+description              : &description "PhD Student @ MIT Sloan, Princeton Economics '24"
 url                      : https://wonjaechang.github.io
 baseurl                  : ""
 repository               : "wonjaechang/wonjaechang.github.io"
@@ -18,7 +18,7 @@ author:
   employer         : "Massachusetts Institute of Technology"
   email            : "wonjaech<at>mit<dot>edu"
   github           : "wonjaechang"
-  linkedin         : https://www.linkedin.com/in/won-jae-chang-2024/
+  linkedin         : "won-jae-chang-2024"
 
 # Publication Categories
 publication_category:
