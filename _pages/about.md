@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-I am a PhD student at the [MIT Sloan School of Management](https://mitsloan.mit.edu/) in Cambridge, MA. Before MIT, I received my A.B. in Economics from Princeton University in 2024.
+I am a PhD student at the [MIT Sloan School of Management](https://mitsloan.mit.edu/) in the [TIES](https://mitsloan.mit.edu/programs/phd/program-overview/ties) group. My research interests are broadly in the economics of innovation, labor economics, and industrial organization.
 
-My research interests are in **[ADD YOUR FIELDS HERE]** — for example, organizational economics, labor economics, and applied microeconomics. Broadly, I am interested in **[ADD A SENTENCE OR TWO ON THE QUESTIONS THAT MOTIVATE YOUR WORK]**.
+Before MIT, I received my A.B. in Economics from Princeton University in 2024. I was also a predoctoral research assistant at [MIT FutureTech](https://futuretech.mit.edu/) and an analyst at [Cornerstone Research](https://www.cornerstone.com/). My full CV is available [here]({{ base_path }}/cv/).
 
-You can find my work on the [publications]({{ base_path }}/publications/) page and a list of my talks on the [talks]({{ base_path }}/talks/) page. My full CV is available [here]({{ base_path }}/cv/).
+Feel free to reach out at wonjaech<at>mit<dot>edu. I am happy to chat and help with anything PhD admissions, predoc applications, econ consulting and more! 
 
-Feel free to reach out at [wonjaech@mit.edu](mailto:wonjaech@mit.edu).
+This site is under development! Check back later.

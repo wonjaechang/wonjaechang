@@ -15,10 +15,9 @@ author:
   name             : "Won-Jae Chang"
   bio              : "PhD Student @ MIT Sloan"
   location         : "Cambridge, MA"
-  employer         : "Massachusetts Institute of Technology"
-  email            : "wonjaech<at>mit<dot>edu"
-  github           : "wonjaechang"
+  employer         : "MIT"
   linkedin         : "won-jae-chang-2024"
+  github           : "wonjaechang"
 
 # Publication Categories
 publication_category:
