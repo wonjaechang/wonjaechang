@@ -7,4 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-Coming soon
+A series of random and often anxiety-inducing life events have led me to where I am now. Coming soon!
