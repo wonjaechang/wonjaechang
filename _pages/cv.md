@@ -79,7 +79,6 @@ title: "Curriculum Vitae"
 </p>
 
 * Under Danial Lashkari and Neil Thompson
-* Worked on projects in economics of AI and innovation
 
 <p class="cv-item">
   <span class="cv-date">08/2024 – 06/2026</span>
@@ -87,7 +86,7 @@ title: "Curriculum Vitae"
   <span class="cv-org"><em>Cornerstone Research</em></span>
 </p>
 
-* Provided economic analysis for litigation
+* New York Office
 
 <p class="cv-item">
   <span class="cv-date">05/2023 – 05/2024</span>
@@ -96,7 +95,6 @@ title: "Curriculum Vitae"
 </p>
 
 * Under Marc Gilles and Amit Singer
-* Built numerical algorithms for Cryo-EM
 
 <p class="cv-item">
   <span class="cv-date">08/2022 – 04/2023</span>
@@ -105,7 +103,6 @@ title: "Curriculum Vitae"
 </p>
 
 * Under Ellora Derenoncourt
-* Contributed to "Wealth of Two Nations: The U.S. Racial Wealth Gap, 1860–2020"
 
 ## Teaching Experience
 
