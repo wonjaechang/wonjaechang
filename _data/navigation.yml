@@ -11,10 +11,7 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Experience"
-    url: /experience/
-
-  - title: "CV"
+  - title: "Curriculum Vitae"
     url: /cv/
         
   - title: "Life is Random"
