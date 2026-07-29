@@ -150,4 +150,7 @@ title: "Curriculum Vitae"
 * R, Python, Stata, Matlab, Java, LaTeX
 
 ## Service and Leadership
+* Leadership: Whig-Clio (President); Princeton Model UN Conference (Secretary-General)
+* Volunteering: Davis International Center (Orientation Leader), Camp Kesem Princeton (Camp Counselor), MIT Spark (Teacher)
+* Activities & Societies: Cap \& Gown Club, Princeton Debate Panel, Asian American \& Korean American Students Association
 
