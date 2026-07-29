@@ -9,9 +9,12 @@
   color: #306E8E;
 }
 
-/* square avatar instead of the theme's circle */
+/* square avatar: drop the theme's circle, and its 1px border + 5px inset
+   (the border is applied at the $large breakpoint in layout/_sidebar.scss) */
 .author__avatar img {
   border-radius: 0;
+  border: none;
+  padding: 0;
 }
 
 /* smaller footer credit line */
