@@ -130,7 +130,7 @@ title: "Curriculum Vitae"
 * "Productive Selectivity: Addressing the Quality-Retention Trade-Off in Student Group Admissions"
 
 <p class="cv-item">
-  <span class="cv-date"04/2024</span>
+  <span class="cv-date">04/2024</span>
   <span class="cv-role">PACM Independent Work</span><br>
   <span class="cv-org"><em>Princeton Applied Math</em></span>
 </p>
@@ -138,7 +138,7 @@ title: "Curriculum Vitae"
 * "Efficient algorithms for Ewald sphere correction in Cryo-EM"
 
 <p class="cv-item">
-  <span class="cv-date"04/2023</span>
+  <span class="cv-date">04/2023</span>
   <span class="cv-role">Junior Paper</span><br>
   <span class="cv-org"><em>Princeton Economics</em></span>
 </p>
