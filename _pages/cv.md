@@ -107,10 +107,10 @@ title: "Curriculum Vitae"
 * Under Ellora Derenoncourt
 * Contributed to "Wealth of Two Nations: The U.S. Racial Wealth Gap, 1860–2020"
 
-## Teaching Expeirence
+## Teaching Experience
 
 <p class="cv-item">
-  <span class="cv-date">05/2023 – 05/2024</span>
+  <span class="cv-date">09/2022 – 05/2024</span>
   <span class="cv-role">Teaching Assistant</span><br>
   <span class="cv-org"><em>Princeton University Economics Department</em></span>
 </p>
@@ -138,19 +138,38 @@ title: "Curriculum Vitae"
 * "Efficient algorithms for Ewald sphere correction in Cryo-EM"
 
 <p class="cv-item">
-  <span class="cv-date"04/>2023</span>
+  <span class="cv-date"04/2023</span>
   <span class="cv-role">Junior Paper</span><br>
   <span class="cv-org"><em>Princeton Economics</em></span>
 </p>
 
 * "The Relationship between Conservation-Oriented Tourism and Economic Well Being: Ecotourism in Costa Rica"
 
+## INTERNSHIPS
+
+<p class="cv-item">
+  <span class="cv-date">06/2023 – 08/2023</span>
+  <span class="cv-role">Finance Intern</span><br>
+  <span class="cv-org"><em>Brightside (FinTech Startup)</em></span>
+</p>
+
+<p class="cv-item">
+  <span class="cv-date">06/2022 – 07/2022</span>
+  <span class="cv-role">International Trade Intern</span><br>
+  <span class="cv-org"><em>British Chamber of Commerce (Colombia)</em></span>
+</p>
+
+<p class="cv-item">
+  <span class="cv-date">05/2021 – 07/2021</span>
+  <span class="cv-role">Summer Intern</span><br>
+  <span class="cv-org"><em>RELX Group (Elsevier)</em></span>
+</p>
+
 ## Technical Skills
 
-* R, Python, Stata, Matlab, Java, LaTeX
+* R, Python, Stata, Matlab, Java, LaTeX, SQL, Microsoft Office
 
 ## Service and Leadership
 * Leadership: Whig-Clio (President); Princeton Model UN Conference (Secretary-General)
 * Volunteering: Davis International Center (Orientation Leader), Camp Kesem Princeton (Camp Counselor), MIT Spark (Teacher)
-* Activities & Societies: Cap \& Gown Club, Princeton Debate Panel, Asian American \& Korean American Students Association
 
