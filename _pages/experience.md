@@ -56,7 +56,7 @@ author_profile: true
 <p class="cv-item">
   <span class="cv-date">08/2026 – Present</span>
   <span class="cv-role">Massachusetts Institute of Technology</span><br>
-  <span class="cv-org">PhD in Management Science</span>
+  <span class="cv-org"><em>Ph.D. in Management Science</em></span>
 </p>
 
 * Technological Innovation, Entrepreneurship, and Strategy (TIES) Group
@@ -64,7 +64,7 @@ author_profile: true
 <p class="cv-item">
   <span class="cv-date">08/2020 – 05/2024</span>
   <span class="cv-role">Princeton University</span><br>
-  <span class="cv-org">AB in Economics</span>
+  <span class="cv-org"><em>A.B. in Economics, Cum Laude (Honors)</em></span>
 </p>
 
 * Certificate (Minor) in Applied Mathematics
@@ -73,8 +73,8 @@ author_profile: true
 
 <p class="cv-item">
   <span class="cv-date">07/2025 – 06/2026</span>
-  <span class="cv-role">Predoc</span><br>
-  <span class="cv-org">MIT FutureTech</span>
+  <span class="cv-role">Predoctoral Research Assistant</span><br>
+  <span class="cv-org"><em>MIT FutureTech</em></span>
 </p>
 
 * Under Danial Lashkari and Neil Thompson
@@ -83,7 +83,7 @@ author_profile: true
 <p class="cv-item">
   <span class="cv-date">08/2024 – 06/2026</span>
   <span class="cv-role">Analyst</span><br>
-  <span class="cv-org">Cornerstone Research</span>
+  <span class="cv-org"><em>Cornerstone Research</em></span>
 </p>
 
 * Provided economic analysis for litigation
@@ -91,7 +91,7 @@ author_profile: true
 <p class="cv-item">
   <span class="cv-date">05/2023 – 05/2024</span>
   <span class="cv-role">Research Assistant</span><br>
-  <span class="cv-org">Princeton Applied Math</span>
+  <span class="cv-org"><em>Princeton Applied Math</em></span>
 </p>
 
 * Under Marc Gilles and Amit Singer
@@ -100,7 +100,7 @@ author_profile: true
 <p class="cv-item">
   <span class="cv-date">05/2023 – 05/2024</span>
   <span class="cv-role">Teaching Assistant</span><br>
-  <span class="cv-org">Princeton Economics</span>
+  <span class="cv-org"><em>Princeton Economics</em></span>
 </p>
 
 * Mathematical Econometrics (ECO312) and Introductory Microeconomics (ECO100)
@@ -108,7 +108,7 @@ author_profile: true
 <p class="cv-item">
   <span class="cv-date">08/2022 – 04/2023</span>
   <span class="cv-role">Research Assistant</span><br>
-  <span class="cv-org">Princeton Economics</span>
+  <span class="cv-org"><em>Princeton Economics</em></span>
 </p>
 
 * Under Ellora Derenoncourt
@@ -140,9 +140,9 @@ author_profile: true
 
 * "The Relationship between Conservation-Oriented Tourism and Economic Well Being: Ecotourism in Costa Rica"
 
-## Skills
+## Technical Skills
 
-* R, Python, Stata, Java
+* R, Python, Stata, Matlab, Java, LaTeX
 
 ## Service and Leadership
 
