@@ -28,7 +28,7 @@ author_profile: true
     margin: 0 0 1em;
   }
   .archive .cv-header h1 {
-    font-size: 1.8em;
+    font-size: 1.7em;
     line-height: 1.1;
     margin: 0;
     padding: 0;
@@ -37,7 +37,7 @@ author_profile: true
   }
   .cv-pdf {
     color: #2f7f93;
-    font-size: 1.7em;
+    font-size: 1.5em;
     line-height: 1;
     text-decoration: none;
     transition: color 0.2s ease-in-out;
