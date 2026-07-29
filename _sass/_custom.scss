@@ -1,0 +1,20 @@
+/* ==========================================================================
+   CUSTOM OVERRIDES
+   Personal tweaks on top of the Academic Pages theme.
+   Imported last from assets/css/main.scss so these win.
+   ========================================================================== */
+
+/* inline accent color, usable as <span class="accent">…</span> in Markdown */
+.accent {
+  color: #306E8E;
+}
+
+/* square avatar instead of the theme's circle */
+.author__avatar img {
+  border-radius: 0;
+}
+
+/* smaller footer credit line */
+.page__footer-copyright {
+  font-size: 0.6em;
+}
