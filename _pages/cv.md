@@ -28,7 +28,7 @@ author_profile: true
     margin: 0 0 1em;
   }
   .archive .cv-header h1 {
-    font-size: 2.2em;
+    font-size: 1.8em;
     line-height: 1.1;
     margin: 0;
     padding: 0;
