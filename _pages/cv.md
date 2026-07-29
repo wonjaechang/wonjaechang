@@ -2,7 +2,6 @@
 layout: archive
 permalink: /cv/
 author_profile: true
-title: "Curriculum Vitae"
 ---
 
 {% include base_path %}
@@ -11,7 +10,7 @@ title: "Curriculum Vitae"
   /* hide the empty <h1 class="page__title"> the archive layout emits when no title is set */
   .archive .page__title:empty { display: none; margin: 0; }
 
-  .archive h1, .archive h2 {
+  .archive h2 {
     font-size: 1.3em;
     color: #2f7f93;
     margin: 1.8em 0 0.8em;
@@ -19,7 +18,34 @@ title: "Curriculum Vitae"
     border-bottom: 1px solid rgba(47, 127, 147, 0.25);
     clear: both;
   }
-  .archive h1:first-of-type, .archive h2:first-of-type { margin-top: 0.5em; }
+  .archive h2:first-of-type { margin-top: 0.5em; }
+
+  /* page heading + PDF download button */
+  .cv-header {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+    margin: 0 0 1em;
+  }
+  .archive .cv-header h1 {
+    font-size: 2.2em;
+    line-height: 1.1;
+    margin: 0;
+    padding: 0;
+    border: none;
+    color: var(--global-text-color);
+  }
+  .cv-pdf {
+    color: #2f7f93;
+    font-size: 1.7em;
+    line-height: 1;
+    text-decoration: none;
+    transition: color 0.2s ease-in-out;
+  }
+  .cv-pdf:hover,
+  .cv-pdf:focus {
+    color: #306E8E;
+  }
 
   .cv-item {
     margin: 1.1em 0 0.3em;
@@ -51,6 +77,13 @@ title: "Curriculum Vitae"
     .cv-date { float: none; display: block; padding-left: 0; }
   }
 </style>
+
+<div class="cv-header">
+  <h1>Curriculum Vitae</h1>
+  <a class="cv-pdf" href="{{ base_path }}/files/cv.pdf" title="Download CV as PDF" aria-label="Download CV as PDF">
+    <i class="fas fa-file-pdf" aria-hidden="true"></i>
+  </a>
+</div>
 
 ## Education
 
