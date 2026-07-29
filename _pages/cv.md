@@ -2,6 +2,7 @@
 layout: archive
 permalink: /cv/
 author_profile: true
+title: "Curriculum Vitae"
 ---
 
 {% include base_path %}
@@ -69,7 +70,7 @@ author_profile: true
 
 * Certificate (Minor) in Applied Mathematics
 
-## Relevant Experience
+## Research Experience
 
 <p class="cv-item">
   <span class="cv-date">07/2025 – 06/2026</span>
@@ -98,14 +99,6 @@ author_profile: true
 * Built numerical algorithms for Cryo-EM
 
 <p class="cv-item">
-  <span class="cv-date">05/2023 – 05/2024</span>
-  <span class="cv-role">Teaching Assistant</span><br>
-  <span class="cv-org"><em>Princeton Economics</em></span>
-</p>
-
-* Mathematical Econometrics (ECO312) and Introductory Microeconomics (ECO100)
-
-<p class="cv-item">
   <span class="cv-date">08/2022 – 04/2023</span>
   <span class="cv-role">Research Assistant</span><br>
   <span class="cv-org"><em>Princeton Economics</em></span>
@@ -114,10 +107,22 @@ author_profile: true
 * Under Ellora Derenoncourt
 * Contributed to "Wealth of Two Nations: The U.S. Racial Wealth Gap, 1860–2020"
 
+## Teaching Expeirence
+
+<p class="cv-item">
+  <span class="cv-date">05/2023 – 05/2024</span>
+  <span class="cv-role">Teaching Assistant</span><br>
+  <span class="cv-org"><em>Princeton University Economics Department</em></span>
+</p>
+
+* Econometrics: A Mathematical Approach (ECO312) 
+* Introduction to Microeconomics (ECO100)
+
+
 ## Projects
 
 <p class="cv-item">
-  <span class="cv-date">2024</span>
+  <span class="cv-date">04/2024</span>
   <span class="cv-role">Senior Thesis</span><br>
   <span class="cv-org"><em>Princeton Economics</em></span>
 </p>
@@ -125,7 +130,7 @@ author_profile: true
 * "Productive Selectivity: Addressing the Quality-Retention Trade-Off in Student Group Admissions"
 
 <p class="cv-item">
-  <span class="cv-date">2024</span>
+  <span class="cv-date">04/2024</span>
   <span class="cv-role">PACM Independent Work</span><br>
   <span class="cv-org"><em>Princeton Applied Math</em></span>
 </p>
@@ -133,7 +138,7 @@ author_profile: true
 * "Efficient algorithms for Ewald sphere correction in Cryo-EM"
 
 <p class="cv-item">
-  <span class="cv-date">2023</span>
+  <span class="cv-date"04/>2023</span>
   <span class="cv-role">Junior Paper</span><br>
   <span class="cv-org"><em>Princeton Economics</em></span>
 </p>
@@ -146,4 +151,3 @@ author_profile: true
 
 ## Service and Leadership
 
-* A lot of random leadership and service here and there.
