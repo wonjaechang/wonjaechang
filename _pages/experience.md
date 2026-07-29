@@ -114,12 +114,12 @@ author_profile: true
 * Under Ellora Derenoncourt
 * Contributed to "Wealth of Two Nations: The U.S. Racial Wealth Gap, 1860–2020"
 
-## Undergraduate Theses
+## Projects
 
 <p class="cv-item">
   <span class="cv-date">2024</span>
   <span class="cv-role">Senior Thesis</span><br>
-  <span class="cv-org">Princeton Economics</span>
+  <span class="cv-org"><em>Princeton Economics</em></span>
 </p>
 
 * "Productive Selectivity: Addressing the Quality-Retention Trade-Off in Student Group Admissions"
@@ -127,7 +127,7 @@ author_profile: true
 <p class="cv-item">
   <span class="cv-date">2024</span>
   <span class="cv-role">PACM Independent Work</span><br>
-  <span class="cv-org">Princeton Applied Math</span>
+  <span class="cv-org"><em>Princeton Applied Math</em></span>
 </p>
 
 * "Efficient algorithms for Ewald sphere correction in Cryo-EM"
@@ -135,7 +135,7 @@ author_profile: true
 <p class="cv-item">
   <span class="cv-date">2023</span>
   <span class="cv-role">Junior Paper</span><br>
-  <span class="cv-org">Princeton Economics</span>
+  <span class="cv-org"><em>Princeton Economics</em></span>
 </p>
 
 * "The Relationship between Conservation-Oriented Tourism and Economic Well Being: Ecotourism in Costa Rica"
