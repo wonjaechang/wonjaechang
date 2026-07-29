@@ -130,7 +130,7 @@ title: "Curriculum Vitae"
 * "Productive Selectivity: Addressing the Quality-Retention Trade-Off in Student Group Admissions"
 
 <p class="cv-item">
-  <span class="cv-date">04/2024</span>
+  <span class="cv-date"04/2024</span>
   <span class="cv-role">PACM Independent Work</span><br>
   <span class="cv-org"><em>Princeton Applied Math</em></span>
 </p>
