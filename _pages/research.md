@@ -15,5 +15,5 @@ _Senior Thesis (Princeton University)_ <br>
 <span class="accent">**A Fast Ewald Sphere-Corrected Reconstruction Algorithm for Cryogenic Electron Microscopy**</span><br>
 _PACM Independent Work (Princeton University)_ <br>
 
-<span class="accent">**The Relationship Between Conservation-Oriented Tourism and Economic Well-Being: A Study of Ecotourism in Costa Rica**</span><br>
+<span class="accent">**The Relationship Between Conservation-Oriented Tourism and Economic Well-Being: Ecotourism in Costa Rica**</span><br>
 _Junior Paper (Princeton University)_ <br>
