@@ -175,7 +175,7 @@ author_profile: true
 
 * "The Relationship between Conservation-Oriented Tourism and Economic Well Being: Ecotourism in Costa Rica"
 
-## INTERNSHIPS
+## Internships
 
 <p class="cv-item">
   <span class="cv-date">06/2023 – 08/2023</span>
